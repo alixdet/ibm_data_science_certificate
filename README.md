@@ -1,4 +1,4 @@
-# IBM Data Science certificatications
+# IBM Data Science certificaticates
 
 This repository only exists for the purpose of applications.
 
